@@ -12,7 +12,7 @@ We aim to:
 
 ## Dataset
 
-- Source: [Kaggle Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+- Source: [Kaggle Stroke Prediction Dataset](https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset)
 - Features: Demographics, health conditions, and lifestyle choices. 16 in total.
 - Target used: `At Risk (Binary)` (1 = risk stroke, 0 = no risk) . Another Target exist but not used: (At Risk in %) for regression.
 
@@ -57,5 +57,5 @@ Each model was evaluated using **AUC** and **F1-score** metrics with cross-valid
 ## 🚀 Check It Out ⛦
 
 You can explore the notebook on **Kaggle** here:  
-🔗 [Kaggle Notebook Link]([https://kaggle.com/your-notebook-path](https://www.kaggle.com/code/ellezee/stroke-risk-classification-using-machine-learning))
+🔗 [Kaggle Notebook Link](https://www.kaggle.com/code/ellezee/stroke-risk-classification-using-machine-learning)
 
